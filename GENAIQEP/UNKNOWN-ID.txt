@@ -1,0 +1,10 @@
+1) Description on code fix:  
+The issue arises from the incorrect usage of keywords in prompts for generating Epic artifacts. To address this, we need to ensure that the API can handle the expected keywords for Epic artifacts generation. This may involve updating the prompt handling logic to accommodate the keywords `{epic description}` and `{acceptance criteria}` instead of just `{feature description}` and `{feature acceptance criteria}`.
+
+2) Code fix:  
+Relevant Code NOT Found  
+The provided code snippets are related to login functionality and do not pertain to the Epic artifacts generation or the prompt handling logic. Therefore, there is no relevant code to fix based on the RCA provided.
+
+3) Other Relevant details:  
+- The issue is primarily due to user confusion regarding the expected keywords for prompts.
+- Documentation updates are necessary to guide users on the correct keywords to use for Epic artifacts generation.
